@@ -1,0 +1,32 @@
+sudo apt-get install python3
+
+sudo su
+sudo apt update && sudo apt upgrade -y
+sudo apt install software-properties-common -y
+sudo add-apt-repository ppa:deadsnakes/ppa
+python3.10 --version
+
+sudo apt install python3-pip
+sudo pip install module-name
+
+
+sudo apt-get update
+
+sudo apt-get install python3
+sudo apt-get install python3-pip
+
+python --version
+python3 --version
+
+pip install -r teste.tx
+
+python -m pip install -U opencv-python --prefer-binary
+python -m pip install -U python-time --prefer-binary
+python -m pip install -U numpy --prefer-binary
+python -m pip install -U matplotlib --prefer-binary
+python -m pip install -U mss --prefer-binary
+python -m pip install -U pyautogui --prefer-binary
+python -m pip install -U pyyaml --prefer-binary
+python -m pip install -U requests --prefer-binary
+python -m pip install -U datetime2 --prefer-binary
+python -m pip install -U random2 --prefer-binary
